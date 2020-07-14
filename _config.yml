@@ -1,11 +1,11 @@
 # Site settings
 author: Ashley Sigler
-title: 
+title: Why Software Engineering?
 header-img: img/home-bg.png
 email: ashleysigler13@gmail.com
 copyright_name: Ashley Sigler
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Making a Difference with an Online Presence
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  asigler-o3
